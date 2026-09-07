@@ -1,0 +1,13 @@
+fitur,target,jenis_uji,statistic,p_value,signifikan (p<0.05)
+video_duration_sec,claim_status,T-Test,0.540687571628616,0.5887292599632777,Tidak
+video_view_count,claim_status,T-Test,166.88857822856752,0.0,Ya
+video_like_count,claim_status,T-Test,128.66448860268164,0.0,Ya
+video_share_count,claim_status,T-Test,122.50544682561396,0.0,Ya
+video_download_count,claim_status,T-Test,122.83807945456752,0.0,Ya
+video_comment_count,claim_status,T-Test,119.2615065584548,0.0,Ya
+video_duration_sec,author_ban_status,ANOVA,3.4544969928738163,0.03162296352431664,Ya
+video_view_count,author_ban_status,ANOVA,622.8287335709721,9.369588587620857e-263,Ya
+video_like_count,author_ban_status,ANOVA,505.7055503188865,9.948791612693464e-215,Ya
+video_share_count,author_ban_status,ANOVA,474.68469483169804,6.480191008411308e-202,Ya
+video_download_count,author_ban_status,ANOVA,467.00926849638245,9.732160127171658e-199,Ya
+video_comment_count,author_ban_status,ANOVA,433.6706663905565,6.521661688198448e-185,Ya
